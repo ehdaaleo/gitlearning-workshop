@@ -18,5 +18,8 @@ git init
 git add .
 => git pull  development 
 git commit 
+ git rm  
+ git 
+
 
 
