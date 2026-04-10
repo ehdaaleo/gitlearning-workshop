@@ -16,5 +16,7 @@ Devolpemnt => merge
 
 git init
 git add .
+=> git pull  development 
+git commit 
 
 
