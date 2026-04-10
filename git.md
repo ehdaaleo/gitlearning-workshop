@@ -11,5 +11,15 @@
 
 main => producation 
 Devolpemnt => merge 
+=> Pull request  =>  merage from branch to another branch 
+=> pull =>   git pull 
+
+git init
+git add .
+=> git pull  development 
+git commit 
+ git rm  
+ git 
+
 
 
